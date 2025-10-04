@@ -6,6 +6,28 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)
 
+## 教程文档
+https://wzkmyww7j1.feishu.cn/docx/NjJTde6AhoL4jHxB8zxcBG4Gn3b?from=from_copylink
+
+## 推荐 大模型 API 聚合平台 91API
+https://api.91hub.vip/
+
+## 平台官网
+https://cz.91hub.vip
+
+## 社群&公众号
+
+<div align="center">
+  <img src="./public/static/qq.png" width="200" alt="QQ群" style="margin: 0 20px;"/>
+  <img src="./public/static/dy.jpg" width="200" alt="公众号" style="margin: 0 20px;"/>
+</div>
+
+<div align="center">
+  <p><strong>QQ交流群</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>关注公众号</strong></p>
+</div>
+
+
+
 ## ✨ 核心特性
 
 ### 🧠 智能 AI Agent
@@ -346,6 +368,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 **开始你的 AI 小说创作之旅吧！** 🚀✨
 
-[官网](https://your-domain.com) · [文档](./docs) · [问题反馈](https://github.com/your-username/jiuyaochuangzuo/issues)
+[官网](https://cz.91hub.vip) · [文档](https://wzkmyww7j1.feishu.cn/docx/NjJTde6AhoL4jHxB8zxcBG4Gn3b?from=from_copylink) · [问题反馈]([ponysb/91Writing at agentic](https://github.com/ponysb/91Writing/issues))
 
 </div>
